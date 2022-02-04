@@ -6,4 +6,4 @@
 
 ![alt-text-1](1.png "title-1") ![alt-text-2](2.png "title-2")
 
-<img src="1.png" width="200"/> <img src="2.png" width="200"/> 
+<img src="1.png" width="400"/> <img src="2.png" width="400"/> 
