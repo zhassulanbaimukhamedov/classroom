@@ -43,6 +43,11 @@
 
 ### 1.2. Создание организации
 
+<img src="img/9.png" width="700" />
+<img src="img/10.png" width="700" />
+<img src="img/11.png" width="700" />
+<img src="img/12.png" width="700" />
+
 <a name="1.3."></a>
 
 ### 1.3. Создание кабинета
