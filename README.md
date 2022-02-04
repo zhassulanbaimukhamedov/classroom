@@ -1,6 +1,6 @@
 # Идея простая
 #### Нужно организовать работу преподавателя и студентов, для проведения занятий. 
-#### B это делается с помощью двух инструментов Github (https://github.com/), и GithubClassroom (https://classroom.github.com/).
+#### И это делается с помощью двух инструментов Github (https://github.com/), и GithubClassroom (https://classroom.github.com/).
 <ul>
   <li>
 <h3>Рабочее пространство преподавателя</h3>
@@ -19,21 +19,21 @@
 #### 2. Как работать студенту, как делать домашние задания
 
 
-# Tagging
+# Как мы работаем с GitHub на курсе React
 
-This PHP library provide the functionality to automatic create a new tag/version in a remote VCS repository dependending on the last created tag/version. It follows the semantic versioning pattern: http://semver.org/
-You are be able configure the version type to increase. For example "major" or "minor" increasement.
+Здесь я постараюсь описать возможность организации командной работы с Github. 
 
-Features:
- - Follows the semantic versioning pattern
- - Major, minor and patch version are supported
- - GIT integration
- - Commit (and push) additional files before creating a new tag/version
- - Dry run. Just evaluate the next tag/version
+Это поможет студентам освоить курсы на практике. Создать свое портфолио. Поможет преподавателю проверять работы студентов. Работать индивидуально с каждым. Делать корректировки в коде студентов.  
+
+Преимущества:
+ - Студенты могут освоить теорию на практике
+ - Создать свое портфолио
+ - Проверка домашних заданий преподавателем индивидуально
+ - Корректировка исходно кода студента
 
 
 ## Index
-- [Installation](#installation)
+- [Как настроить рабочий стол преподавателю](#installation)
   - [Clone](#clone)
   - [Composer](#composer)
 - [Usage](#usage)
