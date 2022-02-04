@@ -31,18 +31,40 @@
 
 
 ## Index
-- [Как настроить рабочий стол преподавателю](#installation)
+- [Настройки рабочей среды преподавателя](#teacherworkflow)
   - [Clone](#clone)
   - [Composer](#composer)
-- [Usage](#usage)
+- [Настройки рабочей среды студента](#studentworkflow)
   - [Version-Type](#version-type)
   - [Commit files before creating a new tag/version](#commit-files-before-creating-a-new-tagversion)
   - [Evaluate (dry run)](#evaluate-dry-run)
 
-## Installation
+
+
+# This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+# This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+# This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project..
+
+
+## Настройки рабочей среды преподавателя
 This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
 
-### Clone
+### Настройки рабочей среды студента
 clone the repitory from GitHub
 
     git clone https://github.com/AOEpeople/Tagging.git .
