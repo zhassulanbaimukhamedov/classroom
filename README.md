@@ -36,7 +36,7 @@
 ### 1.1. Знакомство с Github Classroom
 
 <p>Github Classroom - это инструмент для организации рабочего процесса образования, удобно для учителей, который использует Github</p>
-<p>Чтобы работать в Github Classroom, для начало надо войти или зарегистрироваться на сайте https://classroom.github.com/</p>
+<p>Для начало надо войти или зарегистрироваться на сайте https://classroom.github.com/</p>
 <img src="img/4.png" width="700" />
 
 <a name="1.2."></a>
