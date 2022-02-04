@@ -42,10 +42,13 @@
 <a name="1.2."></a>
 
 ### 1.2. Создание организации
-
+<p>Синхронизация кабинета с учеткой</p>
 <img src="img/9.png" width="700" />
+<p></p>
 <img src="img/10.png" width="700" />
+<p></p>
 <img src="img/11.png" width="700" />
+<p></p>
 <img src="img/12.png" width="700" />
 
 <a name="1.3."></a>
