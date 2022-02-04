@@ -31,7 +31,7 @@
 
 
 ## Index
-- [Настройки рабочей среды преподавателя](#teacherworkflow)
+- [Настройки рабочей среды преподавателя](#Настройки рабочей среды преподавателя)
   - [Clone](#clone)
   - [Composer](#composer)
 - [Настройки рабочей среды студента](#studentworkflow)
@@ -61,7 +61,7 @@ This library is build with composer. So you can even clone this repisory and ins
 This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project..
 
 
-## Настройки рабочей среды преподавателя
+## Настройки рабочей среды преподавателя (#teachersworkflow)
 This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
 
 ### Настройки рабочей среды студента
