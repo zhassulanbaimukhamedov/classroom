@@ -3,7 +3,5 @@
 #### B это делается с помощью двух инструментов Github (https://github.com/), и GithubClassroom (https://classroom.github.com/).
 
 ![](1.png)
-<p float="left">
-  <img src="/1.png" width="100" />
-  <img src="/2.png" width="100" /> 
-</p>
+
+![alt-text-1](1.png "title-1") ![alt-text-2](2.png "title-2")
