@@ -64,6 +64,26 @@ This library is build with composer. So you can even clone this repisory and ins
 ## teachersworkflow 
 This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
 
+# This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+# This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+# This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project..
+
+
 ### Настройки рабочей среды студента
 clone the repitory from GitHub
 
