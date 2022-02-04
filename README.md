@@ -52,33 +52,63 @@
 
 ### 1.3. Создание кабинета
 
+<img src="img/13.png" width="700" />
+<img src="img/14.png" width="700" />
+
+
 <a name="1.4."></a>
 
 ### 1.4. Формирование списка студентов
+
+<img src="img/15.png" width="700" />
+<img src="img/16.png" width="700" />
 
 <a name="1.5."></a>
 
 ### 1.5. Создание и настройка репозитория в Github
 
+<img src="img/22.png" width="700" />
+<img src="img/24.png" width="700" />
+
 <a name="1.6."></a>
 
 ### 1.6. Создание задачи в Github Classroom
+
+<img src="img/17.png" width="700" />
+<img src="img/18.png" width="700" />
+<img src="img/19.png" width="700" />
+<img src="img/20.png" width="700" />
+<img src="img/21.png" width="700" />
+<img src="img/23.png" width="700" />
+<img src="img/25.png" width="700" />
+
 
 <a name="1.7."></a>
 
 ### 1.7. Проверка работы студентов
 
+<img src="img/31.png" width="700" />
+
 <a name="2."></a>
 
 ## 2. Настройки рабочей среды студента
+
 
 <a name="2.1."></a>
 
 ### 2.1. Логин или регистрация в Github
 
+<img src="img/5.png" width="700" />
+
 <a name="2.2."></a>
 
 ### 2.2. Регистрация в Github Classroom
+
+<img src="img/26.png" width="700" />
+<img src="img/27.png" width="700" />
+<img src="img/28.png" width="700" />
+<img src="img/29.png" width="700" />
+
 
 <a name="2.3."></a>
 
